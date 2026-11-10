@@ -1,0 +1,93 @@
+* {
+    border-radius: 1em;
+}
+body {
+    background-color: rgb(222, 167, 221);
+}
+h1 {
+    font-style: italic;
+    font-family: cursive;
+    background-color: rgb(159, 36, 114);
+    color: rgb(255, 181, 238);
+    text-align: center;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+}
+
+h2 {
+    padding: 0.1em ;
+    color: rgb(255, 181, 238);
+    margin: 0%;
+    background-color:  rgb(159, 36, 114);
+    font-style: inherit;
+    text-align: center;
+    
+  
+}
+a {
+    padding: 1em;
+    background-color:  rgb(159, 36, 114);
+    color: rgb(255, 0, 221);
+    width: 100%;
+}
+a:hover {
+   
+    transition: ease 250ms;
+    color:  rgb(255, 181, 238) ;
+}
+li {
+    margin: 1em;
+    padding: 1em;
+    background-color: rgb(159, 36, 114)
+}
+
+.ja {
+    color: black;
+}
+li:hover {
+color: black;
+transition: ease 250ms;
+}
+h3 {
+    margin: 2em;
+    color:  rgb(159, 36, 114);
+}
+
+nav ul {
+display: flex;
+justify-content: center;
+margin: 2em;
+
+}
+nav ul li a:hover {
+    padding: 0.5em;
+    background-color: rgb(159, 36, 114);
+}
+
+nav ul{ 
+    display: flex;
+}
+
+
+main a:active {
+    color:rgb(159, 36, 114);
+}
+
+.nee {
+  color: rgb(222, 167, 221);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: rgb(244, 242, 248);
+}
+nav a {
+    text-decoration: none;
+    color: rgb(229, 199, 228);
+}
+
+img {
+    width: 30em;
+
+}
+
